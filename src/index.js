@@ -1,6 +1,6 @@
 import './css/style.css';
 
-import './js/app'
+import './js/loader'
 import './js/reader'
 import './js/parser'
 import './js/gameSavingLoader'
